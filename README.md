@@ -147,5 +147,4 @@ Expect it to grow over time as more pieces get built out — broker/API
 integration for live prices and order placement, additional sizing
 strategies, real handling of lot sizes and margin, config-driven
 strategy selection via `SIZERS`, and tests. The OOP patterns here
-(dataclasses, decorators, `Callable`-based strategies) are meant to be
-a foundation that new pieces slot into, not a one-off script.
+are meant to be a foundation that new pieces slot into.
