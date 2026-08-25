@@ -1,6 +1,6 @@
 # Trade Position Sizing
 
-A small, single-file Python module for calculating trade position sizes,
+A single-file Python module for calculating trade position sizes,
 built primarily as a **hands-on exercise in Python OOP and functional
 patterns** — dataclasses, decorators, `Callable` type aliases, and
 dictionary-based dispatch — rather than as a serious finance tool.
